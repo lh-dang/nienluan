@@ -39,3 +39,6 @@ TF-IDF = TF × log(N / DF)
 - Ví dụ:
 `"SELECT" với 3-gram ký tự → "SEL", "ELE", "LEC", "ECT".`
 - Ứng dụng: Tốt cho phát hiện tấn công SQLi vì bắt được chuỗi như '--, /*, UNION, OR 1=1.
+### 💡 Nói cách khác:
+- ML: Học từ dữ liệu → dự đoán tốt hơn với mẫu mới.
+- Không ML: Chỉ dựa vào quy tắc → nhanh, nhưng kém linh hoạt.
